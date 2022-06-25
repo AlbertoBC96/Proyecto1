@@ -1,0 +1,12 @@
+beto@beto-asus:~/Documents/FullStack$ mkdir Proyecto1
+beto@beto-asus:~/Documents/FullStack$ cd Proyecto1/
+beto@beto-asus:~/Documents/FullStack/Proyecto1$ mkdir js
+beto@beto-asus:~/Documents/FullStack/Proyecto1$ mkdir css
+beto@beto-asus:~/Documents/FullStack/Proyecto1$ mkdir img
+beto@beto-asus:~/Documents/FullStack/Proyecto1$ echo > index.html
+beto@beto-asus:~/Documents/FullStack/Proyecto1$ cd js/
+beto@beto-asus:~/Documents/FullStack/Proyecto1/js$ echo > main.js
+beto@beto-asus:~/Documents/FullStack/Proyecto1/js$ cd ../
+beto@beto-asus:~/Documents/FullStack/Proyecto1$ cd css/
+beto@beto-asus:~/Documents/FullStack/Proyecto1/css$ echo > index.css
+beto@beto-asus:~/Documents/FullStack/Proyecto1/css$ 
